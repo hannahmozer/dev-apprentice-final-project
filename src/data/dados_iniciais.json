@@ -1,183 +1,197 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Haute Couture",
+      "link": "https://en.wikipedia.org/wiki/Haute_couture",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "High-End Fashion",
+        "url": "https://en.wikipedia.org/wiki/Haute_couture"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "‘In the Haute Couture Ateliers’ — filmmaker Loïc Prigent’s Fall-Winter 2020/21",
+          "url": "https://www.youtube.com/watch?v=iW_mNEsDd-0&list=RDCMUCclHSnngVTZK7LEOQAzcg1w&index=10"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Versace House Party | The Pre-Fall 2020 Campaign",
+          "url": "https://www.youtube.com/watch?v=HXFkg0vwLpQ"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Gucci The Ritual: The Fall Winter 2020 Campaign",
+          "url": "https://www.youtube.com/watch?v=LTn6qMufMu0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "SAINT LAURENT - FALL 2020 - ROSÉ",
+          "url": "https://www.youtube.com/watch?v=E9m4IzTEbA0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Cody Fern on Why Fashion Shouldn't Be Defined by Gender | LOUIS VUITTON",
+          "url": "https://www.youtube.com/watch?v=Ogf0IVL4R18&t=581s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "An artisanal tale of weaving",
+          "url": "https://www.youtube.com/watch?v=71pTAb8Oo-Q"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Hermès | Beauty is a gesture",
+          "url": "https://www.youtube.com/watch?v=3LOyfnEPOYU"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "ACQUA DI GIÒ PROFONDO by Giorgio Armani",
+          "url": "https://www.youtube.com/watch?v=IwkBwCfPGMw"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Modern Etiquette",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Make Etiquette the Focus of Your Everyday Behaviour",
+        "url": "https://www.kuza.one/tips-for-daily-living/make-etiquette-the-focus-of-your-everyday-behaviour/#:~:text=Manners%20are%20an%20expression%20of,on%20social%20acceptance%20and%20efficiency."
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Life Codes by Coco Chanel | British Vogue",
+          "url": "https://www.youtube.com/watch?v=kTg8gKfq8TI"
         },
+        
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Modern Etiquette: Dining Out with Chloe Malle - Vogue",
+          "url": "https://www.youtube.com/watch?v=sbrtsnJQmxA"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "How To Be Confident In Any Situation | Ralph Smart",
+          "url": "https://www.youtube.com/watch?v=34H8u7ItZ4k"
+        },
+        {
+          "titulo": "10 Rules For Being A Millennial Lady",
+          "url": "https://www.youtube.com/watch?v=PqSEdvfGZdU&t=126s"
+        },
+        {
+          "titulo": "15 RULES For Being A GENTLEMAN",
+          "url": "https://www.youtube.com/watch?v=hgq5s8pUaWw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Art",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Art Enables Us to Find Ourselves and Lose Ourselves at The Same Time",
+        "url": "https://en.wikipedia.org/wiki/Art"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Watch the Popovy Sisters Create Their Intricate Dolls by Hand",
+          "url": "https://www.youtube.com/watch?v=XH5exTEFVhw&t=507s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Dreams of Dali 360 Experience",
+          "url": "https://www.youtube.com/watch?v=F1eLeIocAcU&t=139s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Van Gogh - The Starry Night 360 Experience",
+          "url": "https://www.youtube.com/watch?v=dSixcSx-5h0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Budapest: The Taste of Europe. Timelab & Havasi collaboration",
+          "url": "https://www.youtube.com/watch?v=e10pVhxNOco&t=117s"
+        },
+        {
+          "titulo": "Above NYC - Filmed in 12K",
+          "url": "https://www.youtube.com/watch?v=UN3uF3990Q0&t=52s"
+
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Financial Education",
       "cor": "orange",
+      "link_extra": {
+        "text": "Financial Education a Must For The Youth Today",
+        "url": "https://www.entrepreneur.com/article/320917"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!",
+          "url": "https://www.youtube.com/watch?v=azq0S0DKS50&t=260s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech 2020",
+          "url": "https://www.youtube.com/watch?v=tbnzAVRZ9Xc&t=158s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "The Power of ATTITUDE - A powerful motivational speech by Dr. Myles.",
+          "url": "https://www.youtube.com/watch?v=r8LJ5X2ejqU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "8 Things Rich People Don’t Spend Their Money On",
+          "url": "https://www.youtube.com/watch?v=NdXvYV19rgM&t=121s"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Movies You Should Take a Look",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "“A FILM IS NEVER REALLY GOOD UNLESS THE CAMERA IS AN EYE IN THE HEAD OF A POET.”",
+        "url": "https://www.rottentomatoes.com/top/bestofrt/top_100_classics_movies/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Breakfast at Tiffany's (1961)",
+          "url": "https://www.youtube.com/watch?v=JuimqB3ofEI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "The Devil Wears Prada | Official Trailer (2006)",
+          "url": "https://www.youtube.com/watch?v=1HpSx_PQr0c"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Coco Before Chanel | Official Trailer (2009)",
+          "url": "https://www.youtube.com/watch?v=isEnyrd2Moc&list=PLyi8-NSob6wCETmLz-OpDfYUjh-s4cybY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Yves Saint Laurent | Official Trailer (2014)",
+          "url": "https://www.youtube.com/watch?v=-ec-DQ_7EUM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "OCEAN'S 8 | Official Trailer (2018)",
+          "url": "https://www.youtube.com/watch?v=MFWF9dU5Zc0&t=32s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Music",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "“Without music, life would be a mistake” ― Friedrich Nietzsche.",
+        "url": "https://music.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Lady Gaga - Stupid Love (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=5L6xyaeiV58"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Kanye West - POWER",
+          "url": "https://www.youtube.com/watch?v=L53gjP-TtGE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Grimes & i_o - Violence (Official Video)",
+          "url": "https://www.youtube.com/watch?v=M9SGYBHY0qs"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Christine and the Queens - La Vita Nuova",
+          "url": "https://www.youtube.com/watch?v=kBYgR04hbS8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Maya Isac - Sparkle (Official Video)",
+          "url": "https://www.youtube.com/watch?v=P6e4EbDiJ7A"
+        },
+        {
+          "titulo": "Nails, Hair, Hips, Heels by Todrick Hall",
+          "url": "https://www.youtube.com/watch?v=TQ04gPb4LlY"
         }
       ]
     }
