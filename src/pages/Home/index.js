@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"The filmmaker Loïc Prigent report showcases the exceptional materials and techniques used in the creation of the looks, he spent time with Virginie Viard, her Studio and the Haute Couture ateliers to bring you a behind-the-scenes look at the creation process at CHANEL!"}
       />
 
       <Carousel
