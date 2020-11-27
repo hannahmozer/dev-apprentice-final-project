@@ -7,26 +7,19 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-// Desafio master blaster na descrição
-// Colocar um jogo ou brincadeira nessa página:
 const Pagina404 = () => (
   <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
-    <h1>Ops, quebrou tudo :O</h1>
+    <h1>Ops, something went wrong!</h1>
     <p>
-      <a href="/">Você pode jogar ou voltar pra home :)</a>
+      <a href="/">You can play, reload the page</a>
     </p>
     <p>
-      Ou <a href="https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej">aprender a fazer o jogo</a>
+      or <a href="https://www.youtube.com/watch?v=LprJOTU37hk">learn to make a game!</a>
     </p>
-    {/*
-      Pessoal, quem quiser fazer o desafio do Flappy Bird, da pra usar esse iframe aqui: 
-      - https://codepen.io/omariosouto/pen/pogmdGE
-      E quem quiser programar o jogo:
-      - https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej
-    */}
+    
     <iframe
-      title="Flappy Bird Game"
-      src="https://mariosouto.com/flappy-bird-devsoutinho/"
+      title="Dino Runner Online"
+      src="https://chromedino.com/"
       width="340"
       height="600" />
   </div>

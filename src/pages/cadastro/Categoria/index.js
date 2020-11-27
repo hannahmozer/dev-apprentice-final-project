@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 
-function CadastroCategoria() {
+function RegisterCategory() {
   const valoresIniciais = {
     nome: '',
     descricao: '',
@@ -13,10 +13,10 @@ function CadastroCategoria() {
   const [values, setValues] = useState(valoresIniciais);
 
   function setValue(chave, valor) {
-    // chave: nome, descricao, bla, bli
+    
     setValues({
       ...values,
-      [chave]: valor, // nome: 'valor'
+      [chave]: valor, 
     });
   }
 
@@ -47,7 +47,7 @@ function CadastroCategoria() {
   return (
     <PageDefault>
       <h1>
-        Cadastro de Categoria:
+        Register Category:
         {values.nome}
       </h1>
 
@@ -64,53 +64,33 @@ function CadastroCategoria() {
       >
 
         <FormField
-          label="Nome da Categoria"
+          label="Category name"
           type="text"
-          name="nome"
+          name="name"
           value={values.nome}
           onChange={handleChange}
         />
 
         <FormField
-          label="Descrição:"
+          label="Description"
           type="????"
-          name="descricao"
+          name="description"
           value={values.descricao}
           onChange={handleChange}
         />
-        {/* <div>
-          <label>
-            Descrição:
-            <textarea
-              type="text"
-              value={values.descricao}
-              name="descricao"
-              onChange={handleChange}
-            />
-          </label>
-        </div> */}
+      
 
         <FormField
-          label="Cor"
+          label="Color"
           type="color"
           name="cor"
           value={values.cor}
           onChange={handleChange}
         />
-        {/* <div>
-          <label>
-            Cor:
-            <input
-              type="color"
-              value={values.cor}
-              name="cor"
-              onChange={handleChange}
-            />
-          </label>
-        </div> */}
+        
 
         <button type="submit">
-          Cadastrar
+          Submit
         </button>
       </form>
 
@@ -123,10 +103,10 @@ function CadastroCategoria() {
       </ul>
 
       <Link to="/">
-        Ir para home
+        Go back
       </Link>
     </PageDefault>
   );
 }
 
-export default CadastroCategoria;
+export default RegisterCategory;

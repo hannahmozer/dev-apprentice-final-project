@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"The filmmaker Loïc Prigent report showcases the exceptional materials and techniques used in the creation of the looks, he spent time with Virginie Viard, her Studio and the Haute Couture ateliers to bring you a behind-the-scenes look at the creation process at CHANEL!"}
+        videoDescription={"Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development). Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project."}
       />
 
       <Carousel

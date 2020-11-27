@@ -4,14 +4,14 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://www.linkedin.com/in/hannahmozer/">
+        <img src="https://logos.textgiraffe.com/logos/logo-name/Hannah-designstyle-colors-m.png" alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        This page is my final project made for
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="https://cs50.harvard.edu/x/2020/">
+          CS50.
         </a>
       </p>
     </FooterBase>

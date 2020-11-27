@@ -1,197 +1,200 @@
 {
   "categorias": [
     {
-      "titulo": "Haute Couture",
-      "link": "https://en.wikipedia.org/wiki/Haute_couture",
+      "titulo": "How to Start",
+      "link": "https://cs50.harvard.edu/x/2020/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "High-End Fashion",
-        "url": "https://en.wikipedia.org/wiki/Haute_couture"
+        "text": "Introduction to the intellectual enterprises of computer science and the art of programming.",
+        "url": "https://cs50.harvard.edu/x/2020/"
       },
       "videos": [
         {
-          "titulo": "‘In the Haute Couture Ateliers’ — filmmaker Loïc Prigent’s Fall-Winter 2020/21",
-          "url": "https://www.youtube.com/watch?v=iW_mNEsDd-0&list=RDCMUCclHSnngVTZK7LEOQAzcg1w&index=10"
+          "titulo": "This is CS50!",
+          "url": "https://www.youtube.com/watch?v=3oFAJtFE8YU&feature=emb_logo"
         },
         {
-          "titulo": "Versace House Party | The Pre-Fall 2020 Campaign",
-          "url": "https://www.youtube.com/watch?v=HXFkg0vwLpQ"
+          "titulo": "Where To Start Learning How To Code",
+          "url": "hhttps://www.youtube.com/watch?v=-1SmUivH9dQ"
         },
         {
-          "titulo": "Gucci The Ritual: The Fall Winter 2020 Campaign",
-          "url": "https://www.youtube.com/watch?v=LTn6qMufMu0"
+          "titulo": "Making Badass Developers - Kathy Sierra",
+          "url": "https://www.youtube.com/watch?v=FKTxC9pl-WM"
         },
         {
-          "titulo": "SAINT LAURENT - FALL 2020 - ROSÉ",
-          "url": "https://www.youtube.com/watch?v=E9m4IzTEbA0"
+          "titulo": "How To Think Like A Programmer",
+          "url": "https://www.youtube.com/watch?v=azcrPFhaY9k"
         },
         {
-          "titulo": "Cody Fern on Why Fashion Shouldn't Be Defined by Gender | LOUIS VUITTON",
-          "url": "https://www.youtube.com/watch?v=Ogf0IVL4R18&t=581s"
+          "titulo": "Learn web development as an absolute beginner",
+          "url": "https://www.youtube.com/watch?v=ysEN5RaKOlA"
         },
         {
-          "titulo": "An artisanal tale of weaving",
-          "url": "https://www.youtube.com/watch?v=71pTAb8Oo-Q"
+          "titulo": "Computer Science vs Software Engineering",
+          "url": "https://www.youtube.com/watch?v=34sxyECkEkw"
         },
         {
-          "titulo": "Hermès | Beauty is a gesture",
-          "url": "https://www.youtube.com/watch?v=3LOyfnEPOYU"
-        },
-        {
-          "titulo": "ACQUA DI GIÒ PROFONDO by Giorgio Armani",
-          "url": "https://www.youtube.com/watch?v=IwkBwCfPGMw"
-        }        
+          "titulo": "How to Start Coding (and Keep Up With It)",
+          "url": "https://www.youtube.com/watch?v=6ptI5B4a-ag"
+       }        
       ]
     },
     {
-      "titulo": "Modern Etiquette",
+      "titulo": "Web development",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Make Etiquette the Focus of Your Everyday Behaviour",
-        "url": "https://www.kuza.one/tips-for-daily-living/make-etiquette-the-focus-of-your-everyday-behaviour/#:~:text=Manners%20are%20an%20expression%20of,on%20social%20acceptance%20and%20efficiency."
+        "text": "Web Developer must have a basic understanding of HTML, CSS, and JavaScript",
+        "url": "https://www.w3schools.com/whatis/"
       },
       "videos": [
         {
-          "titulo": "Life Codes by Coco Chanel | British Vogue",
-          "url": "https://www.youtube.com/watch?v=kTg8gKfq8TI"
+          "titulo": "HTML, CSS, JavaScript Explained [in 4 minutes for beginners]",
+          "url": "https://www.youtube.com/watch?v=gT0Lh1eYk78"
         },
         
         {
-          "titulo": "Modern Etiquette: Dining Out with Chloe Malle - Vogue",
-          "url": "https://www.youtube.com/watch?v=sbrtsnJQmxA"
+          "titulo": "Web Development In 2020 - A Practical Guide",
+          "url": "https://www.youtube.com/watch?v=0pThnRneDjw"
         }, 
         {
-          "titulo": "How To Be Confident In Any Situation | Ralph Smart",
-          "url": "https://www.youtube.com/watch?v=34H8u7ItZ4k"
+          "titulo": "HTML Crash Course For Absolute Beginners",
+          "url": "https://www.youtube.com/watch?v=UB1O30fR-EE"
         },
         {
-          "titulo": "10 Rules For Being A Millennial Lady",
-          "url": "https://www.youtube.com/watch?v=PqSEdvfGZdU&t=126s"
+          "titulo": "CSS Crash Course For Absolute Beginners",
+          "url": "https://www.youtube.com/watch?v=yfoY53QXEnI"
         },
         {
-          "titulo": "15 RULES For Being A GENTLEMAN",
-          "url": "https://www.youtube.com/watch?v=hgq5s8pUaWw"
+          "titulo": "Learn JAVASCRIPT in just 5 MINUTES (2020)",
+          "url": "https://www.youtube.com/watch?v=c-I5S_zTwAc"
         }
       ]
     },
     {
-      "titulo": "Art",
+      "titulo": "Data Science",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Art Enables Us to Find Ourselves and Lose Ourselves at The Same Time",
-        "url": "https://en.wikipedia.org/wiki/Art"
+        "text": "Data science is the extraction of actionable insights from raw data.",
+        "url": "https://builtin.com/data-science"
       },
       "videos": [
         {
-          "titulo": "Watch the Popovy Sisters Create Their Intricate Dolls by Hand",
-          "url": "https://www.youtube.com/watch?v=XH5exTEFVhw&t=507s"
+          "titulo": "Data Science In 5 Minutes | Data Science For Beginners |",
+          "url": "https://www.youtube.com/watch?v=X3paOmcrTjQ"
         },
         {
-          "titulo": "Dreams of Dali 360 Experience",
-          "url": "https://www.youtube.com/watch?v=F1eLeIocAcU&t=139s"
+          "titulo": "What REALLY is Data Science? Told by a Data Scientist",
+          "url": "https://www.youtube.com/watch?v=xC-c7E5PK0Y"
         },
         {
-          "titulo": "Van Gogh - The Starry Night 360 Experience",
-          "url": "https://www.youtube.com/watch?v=dSixcSx-5h0"
+          "titulo": "How to Build Your First Data Science Web App in Python",
+          "url": "https://www.youtube.com/watch?v=ZZ4B0QUHuNc"
         },
         {
-          "titulo": "Budapest: The Taste of Europe. Timelab & Havasi collaboration",
-          "url": "https://www.youtube.com/watch?v=e10pVhxNOco&t=117s"
+          "titulo": "R vs Python for Data Science",
+          "url": "https://www.youtube.com/watch?v=oQKvgnB6Tdw"
         },
         {
-          "titulo": "Above NYC - Filmed in 12K",
-          "url": "https://www.youtube.com/watch?v=UN3uF3990Q0&t=52s"
-
+          "titulo":"Skills Needed to Become a Data Scientist in 2020",
+          "url":"https://www.youtube.com/watch?v=q2Ruz1dHnow"
+        },
+        {
+          "titulo":"Data Scientist vs Data Analyst: What's the difference?",
+          "url":"https://www.youtube.com/watch?v=mcy2dQ3v6R4"
         }
       ]
     },
     {
-      "titulo": "Financial Education",
+      "titulo": "Cyber Security",
       "cor": "orange",
       "link_extra": {
-        "text": "Financial Education a Must For The Youth Today",
-        "url": "https://www.entrepreneur.com/article/320917"
+        "text": "The most difficult challenge in cyber security is the ever-evolving nature of security risks themselves.",
+        "url": "https://digitalguardian.com/blog/what-cyber-security"
       },
       "videos": [
         {
-          "titulo": "Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!",
-          "url": "https://www.youtube.com/watch?v=azq0S0DKS50&t=260s"
+          "titulo": "An Introduction to Cybersecurity Careers",
+          "url": "https://www.youtube.com/watch?v=-AkuKKJ8dN0"
         },
         {
-          "titulo": "WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech 2020",
-          "url": "https://www.youtube.com/watch?v=tbnzAVRZ9Xc&t=158s"
+          "titulo": "Introduction to Cybersecurity",
+          "url": "https://www.youtube.com/watch?v=ULGILG-ZhO0"
         },
         {
-          "titulo": "The Power of ATTITUDE - A powerful motivational speech by Dr. Myles.",
-          "url": "https://www.youtube.com/watch?v=r8LJ5X2ejqU"
+          "titulo": "Do You Need to Learn Linux to Work in Cybersecurity?",
+          "url": "https://www.youtube.com/watch?v=-699TRv6tLE"
         },
         {
-          "titulo": "8 Things Rich People Don’t Spend Their Money On",
+          "titulo": "Network Security Devices - The Basics",
           "url": "https://www.youtube.com/watch?v=NdXvYV19rgM&t=121s"
+        },
+        {
+          "titulo":"Social Engineering | Cyber Security Crash Course",
+          "url":"https://www.youtube.com/watch?v=hZbgnFeXlr0"
         }
       ]
     },
     {
-      "titulo": "Movies You Should Take a Look",
+      "titulo": "Software Engineering",
       "cor": "red",
       "link_extra": {
-        "text": "“A FILM IS NEVER REALLY GOOD UNLESS THE CAMERA IS AN EYE IN THE HEAD OF A POET.”",
-        "url": "https://www.rottentomatoes.com/top/bestofrt/top_100_classics_movies/"
+        "text": "It is the systematic application of engineering approaches to the development of software",
+        "url": "https://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm"
       },
       "videos": [
         {
-          "titulo": "Breakfast at Tiffany's (1961)",
-          "url": "https://www.youtube.com/watch?v=JuimqB3ofEI"
+          "titulo": "5 Things I Wish I Knew Before Becoming a Software Engineer",
+          "url": "https://www.youtube.com/watch?v=M_GVUj86VaY"
         },
         {
-          "titulo": "The Devil Wears Prada | Official Trailer (2006)",
-          "url": "https://www.youtube.com/watch?v=1HpSx_PQr0c"
+          "titulo": "Java vs Python Comparison | Which One You Should Learn? | Edureka",
+          "url": "https://www.youtube.com/watch?v=s3Ejdx6cIho"
         },
         {
-          "titulo": "Coco Before Chanel | Official Trailer (2009)",
-          "url": "https://www.youtube.com/watch?v=isEnyrd2Moc&list=PLyi8-NSob6wCETmLz-OpDfYUjh-s4cybY"
+          "titulo": "Top 5 Programming Languages to Learn in 2020/2021",
+          "url": "https://www.youtube.com/watch?v=tCAt8eEKPDc"
         },
         {
-          "titulo": "Yves Saint Laurent | Official Trailer (2014)",
-          "url": "https://www.youtube.com/watch?v=-ec-DQ_7EUM"
+          "titulo": "Python VS Java VS C++ | Best Coding Language?",
+          "url": "https://www.youtube.com/watch?v=cOsYJl6d084"
         },
         {
-          "titulo": "OCEAN'S 8 | Official Trailer (2018)",
-          "url": "https://www.youtube.com/watch?v=MFWF9dU5Zc0&t=32s"
+          "titulo": "What do I do as a Software Engineer?",
+          "url": "https://www.youtube.com/watch?v=5kas2jBObUY"
         }
       ]
     },
     {
-      "titulo": "Music",
+      "titulo": "Artificial Inteligence",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "“Without music, life would be a mistake” ― Friedrich Nietzsche.",
-        "url": "https://music.youtube.com/"
+        "text": "It is the branch of computer sciences that emphasizes the development of intelligence machines, thinking and working like humans.",
+        "url": "https://www.brookings.edu/research/what-is-artificial-intelligence/"
       },
       "videos": [
         {
-          "titulo": "Lady Gaga - Stupid Love (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=5L6xyaeiV58"
+          "titulo": "Artificial Intelligence In 5 Minutes | What Is Artificial Intelligence? | AI Explained |",
+          "url": "https://www.youtube.com/watch?v=ad79nYk2keg"
         },
         {
-          "titulo": "Kanye West - POWER",
-          "url": "https://www.youtube.com/watch?v=L53gjP-TtGE"
+          "titulo": "But what is a Neural Network? | Deep learning",
+          "url": "https://www.youtube.com/watch?v=aircAruvnKk"
         },
         {
-          "titulo": "Grimes & i_o - Violence (Official Video)",
-          "url": "https://www.youtube.com/watch?v=M9SGYBHY0qs"
+          "titulo": "Machine Learning Explained in 5 Minutes",
+          "url": "https://www.youtube.com/watch?v=3bJ7RChxMWQ"
         },
         {
-          "titulo": "Christine and the Queens - La Vita Nuova",
-          "url": "https://www.youtube.com/watch?v=kBYgR04hbS8"
+          "titulo": "Deep Learning explained",
+          "url": "https://www.youtube.com/watch?v=OT1jslLoCyA"
         },
         {
-          "titulo": "Maya Isac - Sparkle (Official Video)",
-          "url": "https://www.youtube.com/watch?v=P6e4EbDiJ7A"
+          "titulo": "How to Get Started with Machine Learning & AI",
+          "url": "https://www.youtube.com/watch?v=nl7kDPYD20A"
         },
         {
-          "titulo": "Nails, Hair, Hips, Heels by Todrick Hall",
-          "url": "https://www.youtube.com/watch?v=TQ04gPb4LlY"
+          "titulo": "A.I. Learns to play Flappy Bird",
+          "url": "https://www.youtube.com/watch?v=WSW-5m8lRMs"
         }
       ]
     }
